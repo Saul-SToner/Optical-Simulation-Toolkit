@@ -129,8 +129,7 @@ $$
 通过电场和磁场计算平均能流密度：
 
 $$
-\mathbf S=\frac12\operatorname{Re}
-(\mathbf E\times\mathbf H^*)
+\mathbf{S}=\frac{1}{2}\mathrm{Re}\left(\mathbf{E}\times\mathbf{H}^{*}\right)
 $$
 
 程序进一步沿指定轮廓计算有符号的功率通量。
